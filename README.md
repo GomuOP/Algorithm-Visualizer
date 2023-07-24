@@ -1,6 +1,6 @@
 <div align="center"> <img align="center" alt="algorithm-visualizer" src="Logo1.png" height='150' width='150'>
 
-<h1 align="center"> DRISHYAM -The Algorithm Visualizer</h1>
+<h1 align="center"> The Algorithm Visualizer</h1>
 
 A web application, that lets you play with complex algorithms. User's gets to visualize working of algorithms, at different speeds, and different setups.
 
